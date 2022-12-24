@@ -4,9 +4,9 @@
 
 This game has glowing lines that move left through right and back until you press the fire button.
 
-The objective of the game is to stack glowing lines  on top of each other.
+The objective of the game is to stack glowing lines on top of each other.
 
-![Preview](preview.gif)
+<img src="./preview.gif" width="300" alt="preview" >
 
 This game was developed using **Vanilla Javascript** and **Pure CSS**.
 
